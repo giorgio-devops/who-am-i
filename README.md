@@ -1,5 +1,5 @@
 # ❓Who Am I❓
-Hey, my name is _Giorgio_ also aka `Josh`!
+Hey, my name is _Giorgio_ aka `Josh`!
 
 
 🌐 DevOps and Cloud consultant for more than 7 years
